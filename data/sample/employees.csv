@@ -1,0 +1,21 @@
+employee_id,name,department,salary,hire_date,age,performance_score
+1001,Alice Johnson,Engineering,75000,2020-01-15,28,4.2
+1002,Bob Smith,Data Science,85000,2019-03-22,32,4.5
+1003,Charlie Brown,Engineering,78000,2020-06-10,29,4.1
+1004,Diana Prince,Marketing,65000,2021-02-18,26,4.3
+1005,Eve Wilson,Data Science,88000,2018-11-05,35,4.7
+1006,Frank Miller,Engineering,72000,2021-08-14,27,3.9
+1007,Grace Lee,Marketing,68000,2020-12-01,30,4.4
+1008,Henry Davis,Data Science,90000,2017-09-30,38,4.8
+1009,Ivy Chen,Engineering,76000,2019-07-22,31,4.2
+1010,Jack Turner,Marketing,63000,2022-01-10,25,4.0
+1011,Kate Rodriguez,Data Science,87000,2018-04-15,33,4.6
+1012,Liam Thompson,Engineering,74000,2020-10-05,29,4.1
+1013,Mia Garcia,Marketing,66000,2021-05-20,27,4.2
+1014,Noah Williams,Data Science,92000,2016-12-12,40,4.9
+1015,Olivia Martinez,Engineering,77000,2019-11-18,30,4.3
+1016,Paul Anderson,Marketing,64000,2022-03-08,26,3.8
+1017,Quinn Taylor,Data Science,89000,2018-08-25,34,4.7
+1018,Ruby Jackson,Engineering,73000,2020-04-30,28,4.0
+1019,Sam White,Marketing,67000,2021-09-12,29,4.1
+1020,Tina Harris,Data Science,91000,2017-06-03,37,4.8

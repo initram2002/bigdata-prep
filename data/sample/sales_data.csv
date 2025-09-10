@@ -1,0 +1,21 @@
+transaction_id,customer_id,product_category,amount,transaction_date,payment_method,region
+T001,C101,Electronics,299.99,2023-01-15,Credit Card,North
+T002,C102,Clothing,89.50,2023-01-16,Debit Card,South
+T003,C103,Electronics,1299.99,2023-01-17,Credit Card,East
+T004,C104,Books,24.99,2023-01-18,PayPal,West
+T005,C105,Clothing,156.75,2023-01-19,Credit Card,North
+T006,C106,Electronics,599.99,2023-01-20,Debit Card,South
+T007,C107,Books,45.99,2023-01-21,Cash,East
+T008,C108,Clothing,234.50,2023-01-22,Credit Card,West
+T009,C109,Electronics,899.99,2023-01-23,PayPal,North
+T010,C110,Books,19.99,2023-01-24,Debit Card,South
+T011,C111,Clothing,178.25,2023-01-25,Credit Card,East
+T012,C112,Electronics,449.99,2023-01-26,Cash,West
+T013,C113,Books,32.50,2023-01-27,PayPal,North
+T014,C114,Clothing,267.80,2023-01-28,Credit Card,South
+T015,C115,Electronics,799.99,2023-01-29,Debit Card,East
+T016,C116,Books,28.75,2023-01-30,Cash,West
+T017,C117,Clothing,145.00,2023-01-31,PayPal,North
+T018,C118,Electronics,999.99,2023-02-01,Credit Card,South
+T019,C119,Books,41.25,2023-02-02,Debit Card,East
+T020,C120,Clothing,189.99,2023-02-03,Cash,West
