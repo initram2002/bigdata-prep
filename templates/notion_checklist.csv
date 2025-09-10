@@ -1,0 +1,43 @@
+Day,Topic,Task,Subtask,Status,Priority,Estimated Hours,Actual Hours,Notes,Resources
+1,Big Data Ecosystem,Overview of Big Data landscape,Read Hadoop ecosystem documentation,Not Started,High,2,,Understanding core components,https://hadoop.apache.org/docs/
+1,Big Data Ecosystem,Understand distributed computing concepts,Study CAP theorem and consistency models,Not Started,High,1.5,,Theoretical foundation,Academic papers
+1,Hadoop Architecture,HDFS fundamentals,Learn about blocks and replication,Not Started,High,2,,Core storage concepts,Hadoop documentation
+1,Hadoop Architecture,NameNode and DataNode concepts,Understand metadata management,Not Started,Medium,1,,Architecture details,
+2,HDFS Operations,Install and configure Hadoop,Set up local development environment,Not Started,High,3,,Hands-on setup,Installation guides
+2,HDFS Operations,Basic HDFS commands,Practice file operations via CLI,Not Started,High,2,,Command line proficiency,CLI cheatsheet
+2,HDFS Operations,File system operations,Upload and manage sample datasets,Not Started,Medium,1,,Practical experience,Sample data files
+3,MapReduce Concepts,MapReduce programming model,Understand Map and Reduce phases,Not Started,High,2,,Core concepts,
+3,MapReduce Concepts,Data flow in MapReduce,Study shuffling and partitioning,Not Started,High,1.5,,Technical details,
+3,Java Programming,Java for Hadoop development,Review Java collections and I/O,Not Started,Medium,2,,Programming foundation,
+4,MapReduce Implementation,WordCount implementation,Code Java MapReduce WordCount,Not Started,High,3,,Practical coding,WordCount example
+4,MapReduce Implementation,Build and package with Maven,Create deployable JAR file,Not Started,High,1,,Build process,Maven documentation
+4,MapReduce Implementation,Test on sample data,Validate WordCount with test files,Not Started,Medium,1,,Testing and validation,
+5,Advanced MapReduce,Complex MapReduce patterns,Implement joins and aggregations,Not Started,High,3,,Advanced patterns,
+5,Advanced MapReduce,Combiners and partitioners,Optimize MapReduce performance,Not Started,Medium,2,,Performance optimization,
+5,Advanced MapReduce,Debugging MapReduce jobs,Learn troubleshooting techniques,Not Started,Medium,1,,Debugging skills,
+6,Spark Introduction,Apache Spark overview,Understand Spark architecture,Not Started,High,2,,Spark fundamentals,
+6,Spark Introduction,RDD concepts,Learn Resilient Distributed Datasets,Not Started,High,2,,Core abstraction,
+6,Spark Introduction,Spark vs MapReduce,Compare performance and usability,Not Started,Medium,1,,Technology comparison,
+7,Week 1 Review,Hands-on lab session,Complete integrated exercises,Not Started,High,4,,Practical application,Lab materials
+7,Week 1 Review,Review and assessment,Test understanding of concepts,Not Started,Medium,2,,Knowledge validation,
+8,PySpark Fundamentals,PySpark installation and setup,Configure Python Spark environment,Not Started,High,2,,Environment setup,
+8,PySpark Fundamentals,DataFrames and Datasets,Learn Spark SQL integration,Not Started,High,2.5,,Structured data processing,
+8,PySpark Fundamentals,Basic transformations and actions,Practice data manipulation,Not Started,High,2,,Core operations,
+9,Spark SQL,DataFrame operations,Master select filter group operations,Not Started,High,3,,Data querying,
+9,Spark SQL,Window functions and aggregations,Advanced analytical functions,Not Started,Medium,2,,Complex analytics,
+9,Spark SQL,Data sources integration,Read from various file formats,Not Started,Medium,1,,Data ingestion,
+10,Performance Optimization,Spark performance tuning,Learn caching and partitioning,Not Started,High,3,,Optimization techniques,
+10,Performance Optimization,Memory management,Understand executor configuration,Not Started,Medium,2,,Resource management,
+10,Performance Optimization,Query optimization,Use Catalyst optimizer effectively,Not Started,Medium,1.5,,Query planning,
+11,Data Modeling,Dimensional modeling concepts,Learn star and snowflake schemas,Not Started,High,2,,Analytics modeling,
+11,Data Modeling,Data warehouse design patterns,Study fact and dimension tables,Not Started,High,2,,Design principles,
+11,Data Modeling,Normalization vs denormalization,Choose appropriate strategies,Not Started,Medium,1,,Design decisions,
+12,Advanced SQL,Window functions mastery,Complex analytical queries,Not Started,High,3,,Advanced querying,
+12,Advanced SQL,Common Table Expressions (CTEs),Hierarchical and recursive queries,Not Started,Medium,2,,Query structuring,
+12,Advanced SQL,Performance optimization,Index strategies and query tuning,Not Started,Medium,2,,SQL optimization,
+13,Integration Project,End-to-end data pipeline,Combine all learned technologies,Not Started,High,5,,Capstone project,
+13,Integration Project,Performance benchmarking,Compare different approaches,Not Started,Medium,2,,Performance analysis,
+13,Integration Project,Documentation and presentation,Create project documentation,Not Started,Medium,2,,Communication skills,
+14,Final Assessment,Comprehensive review,Review all topics and concepts,Not Started,High,3,,Knowledge consolidation,
+14,Final Assessment,Practical evaluation,Complete assessment exercises,Not Started,High,3,,Skills demonstration,
+14,Final Assessment,Future learning planning,Identify advanced topics to pursue,Not Started,Low,1,,Career development,
